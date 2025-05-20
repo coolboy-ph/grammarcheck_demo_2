@@ -258,5 +258,10 @@ c. Enable Google Authentication
     - HTTPS is working
     - Content from index.html is loading
     - Firebase OAuth 2.0 is protecting access
+    - You can check the logged-in user under the Firebase's Authentication Users tab.
+
+![image](https://github.com/user-attachments/assets/669ed2de-e790-4bba-93a9-5ca10009ca50)
+
+![image](https://github.com/user-attachments/assets/ef779d21-ec4c-41df-bd50-e5d1cd740d8c)
 
 
